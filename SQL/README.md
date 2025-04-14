@@ -1,4 +1,3 @@
-````markdown
 # 🏋️ Fitness Club SQL Database
 
 This project contains a structured **MySQL** database for managing the operations of a fitness club. It includes entities like clients, monitors (trainers), workout rooms, attendance tracking, video logs (vlogs), and messaging between users.
@@ -26,7 +25,6 @@ The main file in this repository is:
    git clone https://github.com/your-username/fitness-club-database.git
    cd fitness-club-database
    ```
-````
 
 2. **Set up the database in MySQL**
 
@@ -94,7 +92,3 @@ Pull requests are welcome! If you’d like to add features or fix bugs, feel fre
 ---
 
 Enjoy building with SQL! 💪
-
-```
-
-```
